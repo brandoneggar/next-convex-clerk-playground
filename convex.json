@@ -1,0 +1,12 @@
+{
+  "project": "next-convex-clerk-playground",
+  "team": "brandoneggar",
+  "prodUrl": "https://silent-walrus-100.convex.cloud",
+  "functions": "convex/",
+  "authInfo": [
+    {
+      "domain": "https://pro-magpie-6.accounts.dev/",
+      "applicationID": "convex"
+    }
+  ]
+}
